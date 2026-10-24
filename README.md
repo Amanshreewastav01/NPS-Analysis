@@ -74,3 +74,6 @@ The dashboard is divided into **three main pages**:
 
 ### 3️⃣ Tables & Personalize Page  
 <img width="1137" height="647" alt="Screenshot 2026-10-24 230339" src="https://github.com/user-attachments/assets/6f8a705f-f545-4936-ba0b-cca3252326e9" />
+
+## 📌 Conclusion
+The NPS Analysis Dashboard helps evaluate customer satisfaction and loyalty across India's leading motorcycle companies, identifying key trends and improvement areas through interactive Power BI visualizations to support data-driven decision-making.
