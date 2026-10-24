@@ -70,7 +70,7 @@ The dashboard is divided into **three main pages**:
 <img width="580" height="780" alt="Screenshot 2026-10-24 230223" src="https://github.com/user-attachments/assets/63d1c347-1c0a-4ae1-88f5-e7fe16b34ce2" />
 
 ### 2️⃣ VCS Page  
-<img width="1132" height="643" alt="Screenshot 2026-10-24 230311" src="https://github.com/user-attachments/assets/3f1edb7c-7c28-49f1-800d-b416a527abdf" />x
+<img width="1132" height="643" alt="Screenshot 2026-10-24 230311" src="https://github.com/user-attachments/assets/3f1edb7c-7c28-49f1-800d-b416a527abdf" />
 
 ### 3️⃣ Tables & Personalize Page  
-<img width="1137" height="647" alt="Screenshot 2026-10-24 230339" src="https://github.com/user-attachments/assets/6f8a705f-f545-4936-ba0b-cca3252326e9" />x
+<img width="1137" height="647" alt="Screenshot 2026-10-24 230339" src="https://github.com/user-attachments/assets/6f8a705f-f545-4936-ba0b-cca3252326e9" />
