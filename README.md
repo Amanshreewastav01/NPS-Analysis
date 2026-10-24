@@ -1,4 +1,4 @@
-# 📊 Net Promoter Score (NPS) Dashboard – Power BI
+# 📊 Net Promoter Score (NPS) Analysis
 
 This repository contains a Power BI dashboard that analyzes **Net Promoter Score (NPS)** performance for India's top motorcycle companies, covering data from **April 2024 to March 2025**.
 
@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard that analyzes **Net Promoter Score
 
 The dashboard is divided into **three main pages**:
 
-### 1️⃣ Information  
+### 1️⃣ About  
 - Overview of the project scope and data structure  
 - Explanation of NPS & NP% calculation logic  
 
@@ -19,7 +19,6 @@ The dashboard is divided into **three main pages**:
 ### 3️⃣ Tables & Personalize  
 - Detailed data tables with slicers and filters  
 - Ability to personalize columns (such as adding/removing fields)  
-- Logos are used to represent each company for better visual recognition  
 - Visual indicators for Promoters, Passives, and Detractors  
 
 ---
@@ -39,7 +38,7 @@ The dashboard is divided into **three main pages**:
 
 ---
 
-### 🔢 NP% (Negative Percentage)
+### 🔢 Non-Promoter (NP%) (Negative Percentage)
 
 **NP% = ((Passives + Detractors) / (Promoters + Passives + Detractors)) * 100:**
 
@@ -52,7 +51,6 @@ The dashboard is divided into **three main pages**:
 - Microsoft Excel  
 - DAX (Data Analysis Expressions)  
 - Python (for synthetic data generation)  
-- GitHub (for version control and hosting)
 
 ---
 
@@ -61,18 +59,18 @@ The dashboard is divided into **three main pages**:
 | File                         | Description                         |
 |------------------------------|-------------------------------------|
 | `NPS_Motorcycle_Final_20160.csv` | Final dataset (20,160 rows)     |
-| `Power-BI_NPS-Dashboard.pbix`    | Power BI dashboard file         |
+| `NPS Analysis Dashboard`    | Power BI dashboard file         |
 | `README.md`                      | Project documentation (this file) |
 
 ---
 
 ## 🖼 Dashboard Screenshots
 
-### 1️⃣ Information Page  
-![Guidelines](https://github.com/user-attachments/assets/4b1c73e1-60be-4b44-9c6e-0bae98f8c538)
+### 1️⃣ About Page  
+![Guidelines](<img width="580" height="780" alt="Screenshot 2026-10-24 230223" src="https://github.com/user-attachments/assets/63d1c347-1c0a-4ae1-88f5-e7fe16b34ce2" />x)
 
 ### 2️⃣ VCS Page  
-![VCS](https://github.com/user-attachments/assets/2fe583f0-bcf6-4af4-a3df-568644c5a4bb)
+![VCS](<img width="1132" height="643" alt="Screenshot 2026-10-24 230311" src="https://github.com/user-attachments/assets/3f1edb7c-7c28-49f1-800d-b416a527abdf" />)
 
 ### 3️⃣ Tables & Personalize Page  
-![Tables](https://github.com/user-attachments/assets/3ab16bcd-5bb1-4df7-b5fb-1cbd914ee6cb)
+![Tables](<img width="1137" height="647" alt="Screenshot 2026-10-24 230339" src="https://github.com/user-attachments/assets/6f8a705f-f545-4936-ba0b-cca3252326e9" />)
